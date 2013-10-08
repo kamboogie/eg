@@ -1,5 +1,5 @@
 name = eg
-description = Please provide a description for your theme.
+description = My subtheme for my personal website.
 base theme = omega
 screenshot = screenshot.png
 engine = phptemplate
